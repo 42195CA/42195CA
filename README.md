@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @42195CA
-- 👀 I’m interested in Ubuntu, Data Mining, DevOps, Compute Vision
-- 🌱 I’m currently learning Multiple View Geometry by Hartley and Zisserman
-- 💞️ I’m looking to collaborate on self-driving car, data science
+- working as AI/ML engineer for 10+ years in auto industry
+- 👀 I’m interested in Ubuntu, Machine Learning and Deep Learning, Data Mining, DevOps CI/CD, Computer Vision, LLM 
 - 📫 How to reach me xiaoyang.liu@gmail.com
 
 <!---
